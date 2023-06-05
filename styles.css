@@ -22,8 +22,9 @@
 	justify-content: flex-start; 
 }
 
-.media-icons {
+.media-icons a {
 	display:flex;
+	justify-content: space-around;
 	column-gap: 5%;
 }
 
